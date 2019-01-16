@@ -15,7 +15,7 @@
 		</constructor-arg>  
 
 		<constructor-arg>
-			<value>${userName}</value>
+			<value>${uName}</value>
 		</constructor-arg>
 
 		 <constructor-arg>
